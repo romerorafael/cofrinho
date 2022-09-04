@@ -10,3 +10,6 @@ As funções disponíveis são:
  - Mostra uma lista com todas as moedas que estão dentro;
  - Remove uma moeda especifica do cofre;
  - E mostra o valor total, em Real, que está dentro cofre. 
+ 
+ ![image](https://user-images.githubusercontent.com/60353241/188326215-6aaf0c20-4335-42cf-b9a4-899c8181b767.png)
+
